@@ -91,7 +91,7 @@ void showMoodMenu() {
 }
 
 // ---------------------------------------------------------
-// Recommendation logic
+// Recommendation logic (mood)
 // ---------------------------------------------------------
 
 // Small helper so each song is one neat line below
